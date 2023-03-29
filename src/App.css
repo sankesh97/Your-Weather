@@ -1,0 +1,19 @@
+.section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main-btn {
+  border: none;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: teal;
+}
+
+.main-btn:hover {
+  background-color: #505050;
+  color: #fff;
+  border: none;
+}

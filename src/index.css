@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #129793;
+  font-family: "Staatliches", cursive;
+}
